@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript and couple of its frameworks and gamedev with Godot Engine tool.
 - 📫 How to reach me:
 -   via email: tanthal.dev@gmail.com
--   via website: in progress.
+-   via website: https://tanthal.github.io/my-website/.
 
 <!---
 tanthal/tanthal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
